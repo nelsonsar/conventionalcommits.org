@@ -12,7 +12,7 @@ mensagens de commit.
 Ela define um conjunto de regras para criar um histórico de commit
 explícito, o que facilita a criação de ferramentas automatizadas.
 Esta convenção segue o [SemVer](http://semver.org),
-descrevendo os recursos, correções e modificações que quebram a compatibilidade
+descrevendo novas funcionalidades, correções e modificações que quebram a compatibilidade
 nas mensagens de commit.
 
 A mensagem do commit deve ser estruturada da seguinte forma:
